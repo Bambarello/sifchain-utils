@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BIN_FILE="/root/go/bin/sifnodecli"
+BIN_FILE="$HOME/go/bin/sifnodecli"
 RPC_PORT="27657"
 PASS="XXXXXXXXXXXX"
 WALLET_NAME="sifchain"
